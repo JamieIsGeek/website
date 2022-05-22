@@ -15,4 +15,4 @@
 
 This website mainly uses HTML and has support for both Mobile and PC Users. 
 
-Feel free to modify / host this yourself, its fairly self explanitory to use and modify  and can be hosted locally, on [ReplIT](https://www.replt.it/), or anything that can run HTML, CSS & JS!
+Feel free to modify / host this yourself, its fairly self explanitory to use and modify  and can be hosted locally, on [Repl.it](https://www.replt.it/), or anything that can run HTML, CSS & JS!
