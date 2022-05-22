@@ -32,7 +32,7 @@
 
 #navbar__logo {
   background-color: #ff8177;
-  background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+  background-image: linear-gradient(to right, #12c2e9 0%, #c471ed 50%, #f64f59 100%);
   background-size: 100%;
   -webkit-background-clip: text;
   -moz-background-clip: text;
@@ -89,17 +89,16 @@
   border: none;
   outline: none;
   border-radius: 4px;
-  background: #f77062;
   color: #fff;
 }
 
 .button:hover {
-  background: #4837ff;
+  color: #64d2f7;
   transition: all 0.3s ease;
 }
 
 .navbar__links:hover {
-  color: #f77062;
+  color: #64d2f7;
   transition: all 0.3s ease;
 }
 
@@ -226,19 +225,8 @@
 
 .main__content h1 {
   font-size: 4rem;
-  background-color: #ff0844;
-  background-image: linear-gradient(to top, #0068FF 0%, #64D6E7 100%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
-}
-
-.main__content h2 {
-  font-size: 4rem;
-  background-color: #ff8177;
-  background-image: linear-gradient(to top, #b721ff 0%, #21d4fd 100%);
+  background-color: #c0392b;
+  background-image: linear-gradient(to right, #2980b9 0%, #6dd5fa 50%, #25C4FC 100%);
   background-size: 100%;
   -webkit-background-clip: text;
   -moz-background-clip: text;
@@ -251,11 +239,12 @@
   font-size: 2rem;
   font-weight: 700;
   color: #fff;
+
 }
 
 .main__btm {
   font-size: 1rem;
-  background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
+  background-image: linear-gradient(to right, #12c2e9 0%, #c471ed 50%, #f64f59 100%);
   padding: 14px 32px;
   border: none;
   border-radius: 4px;
@@ -281,8 +270,7 @@
   left: 0;
   width: 0;
   height: 100%;
-  background: #4837ff;
-  transition: all 0.35s;
+  background-image: linear-gradient(to right, #12c2e9 0%, #c471ed 50%, #f64f59 100%);
   border-radius: 4px;
 }
 
@@ -295,12 +283,12 @@
 }
 
 .main__img--container {
-  text-align: center;
+  text-align: left;
 }
 
 #main__img {
-  height: 80%;
-  width: 80%;
+  height: 60%;
+  width: 60%;
 }
 
 /* Mobile Responsive */
